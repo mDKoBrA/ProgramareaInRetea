@@ -1,0 +1,31 @@
+
+1
+java:S1643K"Use a StringBuilder instead.(‚³´w
+>
+java:S11481"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+>
+java:S1148W"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+?
+java:S1659"$Declare "HEIGHT" on a separate line.(ÔÄ‘«ÿÿÿÿÿ
+j	java:S116"PRename this field "WIDTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÄ‘«ÿÿÿÿÿ
+k	java:S116"QRename this field "HEIGHT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÄ‘«ÿÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(ÔÄ‘«ÿÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(ÔÄ‘«ÿÿÿÿÿ
+m
+java:S3776""RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(ÿŸ¾Ğüÿÿÿÿ
+a
+java:S2142/"FEither re-interrupt this method or rethrow the "InterruptedException".(ŠÏ¢²üÿÿÿÿ
+o
+java:S30126"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Â­Ş§
+D
+java:S2140<")Use "java.util.Random.nextInt()" instead.(Í…’èûÿÿÿÿ
+9
+java:S2119>"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+_
+java:S3358@"DExtract this nested ternary operation into an independent statement.(±®ÛÃûÿÿÿÿ
+_
+java:S3358@"DExtract this nested ternary operation into an independent statement.(±®ÛÃûÿÿÿÿ
